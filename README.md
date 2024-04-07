@@ -1,2 +1,2 @@
-# Movie-Tracker
+# GroovyMovie
 Movie browser app.
